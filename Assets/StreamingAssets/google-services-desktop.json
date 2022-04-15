@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "835124199261",
+    "project_id": "raidenbittest",
+    "storage_bucket": "raidenbittest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835124199261:android:5dd8e87f527ed5f13cf2b4",
+        "android_client_info": {
+          "package_name": "com.vgames.raidenbitTest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835124199261-a4a6icimj426i0923dq0ripj9qb1car9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoOaBVSm-Cvf4IsA7lycCy3Sv1bjWc8kI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835124199261-a4a6icimj426i0923dq0ripj9qb1car9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
